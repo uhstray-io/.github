@@ -1,4 +1,3 @@
-## Hi there 👋
 ## 🙋‍♀️ What is Uhstray.io?
 
 Uhstray.io, LLC (501(c)(3) (Pending) is organized exclusively for educational and scientific purposes.
