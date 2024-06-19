@@ -1,6 +1,6 @@
 ## 🙋‍♀️ What is Uhstray.io?
 
-Uhstray.io, LLC (501(c)(3) (Pending) is organized exclusively for educational and scientific purposes.
+Uhstray.io, LLC | Worker Owned | Not For Profit is organized for educational and scientific purposes.
 
 Our goal is to **To provide education, intelligence, and autonomy to everyone and every home.**
 
