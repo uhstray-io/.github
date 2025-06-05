@@ -24,6 +24,7 @@ Our mission: Enable everyone to own their own IT data & hardware to create open-
 | Our goal is to educate individuals to own their own cloud and IT footprint. Encouraging and enabling security best practices to prevent individuals from losing their digital assets. | By supporting open platforms and creating business that have data driven practices at their core, we can create sustainable and equitable ecosystems that give fair attribution to individuals contribution to efforts and company projects. | In developing education platforms to serve the goals and platforms that will make the technologies of the future, we hope to embed those technologies into educational institutions for zero cost so students can learn on technology that represents state-of-the-art trends. | By enabling the other tenants of our value proposition, we take a 3 pronged approached to creating stability and scale for the IT industry. |
 
 ## 👩‍💻 Useful resources -  Resources
+- [Join our Discord!](https://discord.uhstray.io/)
 - [See docs from our latest work](https://www.uhstray.io/docs)
 - [Check out our projects](https://www.uhstray.io/projects)
 - [See our community resources](https://www.uhstray.io/community)
