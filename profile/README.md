@@ -2,9 +2,9 @@
 
 Uhstray.io, LLC | Worker Owned is organized for development, educational, and scientific purposes.
 
-- We’re building business-as-code! A Secure and AI driven private cloud business solution, that let’s you own and curate your own data, especially designed to accelerate small business and startups!
-- If you want to follow the project check out the business-as-code [Github repository](https://www.github.com/uhstray-io/business-as-code). We’re looking for contributors and members to our general council.
-- If you’d like to meet our team, join our community, or get involved in any of our [projects](https://www.uhstray.io/en/projects) join our [Discord](https://discord.uhstray.io/)!
+- We’re building agent-cloud! A Secure and AI driven private cloud business solution, that let’s you own and curate your own data, especially designed to accelerate small business and startups!
+- If you want to follow the project check out the business-as-code [Github repository](https://www.github.com/uhstray-io/agent-cloud). We’re looking for contributors and members to our general council.
+- If you’d like to meet our team, join our community, or get involved in any of our [projects](https://www.uhstray.io/en/projects) join our [Discord](https://discord.gg/uhstray)!
 
 Our goal is to **To provide education, intelligence, and autonomy to everyone and every home.**
 
